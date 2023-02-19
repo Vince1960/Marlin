@@ -109,4 +109,3 @@
 #endif
 #undef CHECK_SERIAL_PIN
 #undef _CHECK_SERIAL_PIN
-#undef _CHECK_SERIAL_PIN
